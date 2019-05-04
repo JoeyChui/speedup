@@ -3,6 +3,8 @@ package me.joeychui.speedup;
 /**
  * @author: cuilihui
  * @date: 2019-05-03
+ *
+ * p10. Regular Expression Matching
  */
 public class RegularExpressionMatching {
 
@@ -33,6 +35,9 @@ public class RegularExpressionMatching {
     // leetcode 题解 巧妙的利用递归
     // When a star is present, we may need to check many different suffixes of the text
     // and see if they match the rest of the pattern.
+    // 1 递归终止条件非常巧妙
+    // 2 递归过程 分为 有* 和 无*
+    // 3 firstMatch && isMatch()
     public boolean isMatch(String string, String pattern) {
         if (pattern.isEmpty()) return string.isEmpty();
         boolean firstMatch = string.length() >= 1 &&
