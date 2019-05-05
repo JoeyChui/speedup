@@ -1,8 +1,8 @@
 package me.joeychui.speedup;
 
 /**
- * @author: cuilihui
- * @date: 2019-05-03
+ * @author cuilihui
+ * @date 2019-05-03
  *
  * p28. Implement strStr()
  */

@@ -1,8 +1,8 @@
 package me.joeychui.speedup;
 
 /**
- * @author: cuilihui
- * @date: 2019-05-01
+ * @author cuilihui
+ * @date 2019-05-01
  *
  * p14. Longest Common Prefix
  */

@@ -5,8 +5,8 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- * @author: cuilihui
- * @date: 2019-05-03
+ * @author cuilihui
+ * @date 2019-05-03
  */
 class ImplementStrStrTest {
 

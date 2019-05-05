@@ -4,8 +4,8 @@ import java.util.HashMap;
 import java.util.Stack;
 
 /**
- * @author: cuilihui
- * @date: 2019-05-01
+ * @author cuilihui
+ * @date 2019-05-01
  *
  * p20. Valid Parentheses
  */
