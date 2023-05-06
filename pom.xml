@@ -11,7 +11,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>leetcode-problems</module>
+        <module>leetcode</module>
     </modules>
 
     <properties>
