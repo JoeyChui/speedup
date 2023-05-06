@@ -1,6 +1,5 @@
 package me.joeychui.speedup;
 
-import me.joeychui.speedup.leetcode.ValidParentheses;
 import org.junit.jupiter.api.Test;
 
 /**

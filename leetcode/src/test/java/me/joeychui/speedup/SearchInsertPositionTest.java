@@ -1,6 +1,5 @@
 package me.joeychui.speedup;
 
-import me.joeychui.speedup.leetcode.SearchInsertPosition;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
