@@ -1,4 +1,4 @@
-package me.joeychui.speedup.leetcode;
+package me.joeychui.speedup;
 
 public class Temple {
 
